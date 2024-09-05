@@ -6,5 +6,6 @@ public class Main
       System.out.println("yay");
       System.out.println("Hows your day");
       System.out.println("last try");
+      //This is just a project example its not great code
     }
   }
